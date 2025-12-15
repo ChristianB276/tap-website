@@ -1,9 +1,9 @@
 # Using Github Codespaces cloud IDE to modify the TAP Website
 
-To preview your changes when making changes to the [TAP website](https://tapggc.org), you can use an online IDE using Github Codespaces without cloning the repository on your computer or installing anything. If you are working as a team, only one person needs to get this process started by creating a branch. Then, others can create their own Codespaces on the same branch to join to help editing.
+To preview your changes when making changes to the [TAP website](https://tapggc.org), you can use an online IDE using Github Codespaces without cloning the repository on your computer or installing anything. If you are working as a team, only one person needs to get this process started. If you were given direct access to the main repository, you can create a branch. If not, you can create a fork and add your teammates to it. Then, others can create their own Codespaces on the same place to join to help editing.
 
 ## Find the code for the website
-Start by opening the [Github repo page for the TAP website](https://github.com/TAP-GGC/tap-ws1-astro-agnosticui).
+Start by opening the Github repo page for your fork or [for the original TAP website if you have a branch](https://github.com/TAP-GGC/tap-ws1-astro-agnosticui). 
 
 ## 👀 Create a Github Codespace
 
@@ -32,9 +32,9 @@ To start a Github Codespace to see previews of your changes, do the following (a
     ![Ready to develop](./Picture5.png)
 
 
-## Create a new branch to make your changes 👀 
+## Optional, skip if you have a fork: Create a new branch to make your changes 👀 
 
-1. Start by creating your own team branch. Click on the fork icon on the VS Code left sidebar 
+1. **If you are not already on a fork,** create your own team branch. Click on the fork icon on the VS Code left sidebar 
 
     ![Ready to develop](./Picture6.png)
 
